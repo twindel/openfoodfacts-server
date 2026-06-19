@@ -467,7 +467,7 @@ nl: capsicum-extract
 wikidata:en: Q53792073
 
 < en:paprika extract
-en: capsicum oleoresin, capsicum oleo-resin, oleoresin capsicum
+en: capsicum oleoresin, capsicum oleo-resin, oleoresin capsicum 
 fr: oléorésine de Capsicum
 de: Capsicum Oleoresin
 es: oleorresina de capsicum
