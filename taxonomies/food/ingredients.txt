@@ -466,6 +466,15 @@ it: estratto di capsaicina, estratto di capsicina, estratto di capseicina
 nl: capsicum-extract
 wikidata:en: Q53792073
 
+< en:paprika extract
+en: capsicum-oleoresin, capsicum oleo-resin
+de: Capsaicin-Oleoresin, Capsicum-Oleoresin
+es: oleorresina de capsicum
+fr: oléorésine de Capsicum
+nl: capsicum-extract, Capsicum-Oleoresin
+# comment:en: Capsicum-oleoresin is high concentrated extract also used for pepper-spray.
+wikipedia:en: https://en.wikipedia.org/wiki/Oleoresin
+
 # comment:en: en:lecithines is part of the additives
 
 # nova:en:lecithin
