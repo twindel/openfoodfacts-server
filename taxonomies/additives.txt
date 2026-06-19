@@ -18649,6 +18649,7 @@ organic_eu:en: authorized
 vegan:en: yes
 vegetarian:en: yes
 wikidata:en: Q116269
+# description:en:E551 is always a powder of 2-28 nm nanoparticles that fuse to larger structures of about 100 nm size. The pre- or postfix _nano_ or _nanoparticles_ is unnessesary.
 # description:en:SILICON DIOXIDE, also known as silica, silicic acid or silicic acid anydride is an oxide of silicon with the chemical formula SiO2, most commonly found in nature as quartz and in various living organisms.Silica is a common additive in food production, where it is used primarily as a flow agent in powdered foods, or to adsorb water in hygroscopic applications. It is used as an anti-caking agent in powdered foods such as spices and non-dairy coffee creamer.
 wikipedia:en: https://en.wikipedia.org/wiki/Silicon_dioxide
 # ingredient/fr:e551 has 279 products @2019-03-24
